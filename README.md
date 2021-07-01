@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/86714974/124090772-d37e1000-da5d-11eb-92e4-6e693ae7d6b9.png)
+
 # Description
 
 This project is an experiment with yield farming features. Users are able to participate in the lottery, vote for the chosen baker, provide liquidity, and stake tokens to receive dividends in XTZ.
